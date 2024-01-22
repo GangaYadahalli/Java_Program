@@ -9,7 +9,7 @@ public class TaxCalculation {
 		System.out.println("tax not applicable");
 		}
 	else{
-		if(person.getIncome()<=160000)
+		if(person.getIncome()<=16000)
 		{
 			person.setTax(0);
 		}

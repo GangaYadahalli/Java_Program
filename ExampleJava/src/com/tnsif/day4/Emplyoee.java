@@ -1,5 +1,5 @@
 package com.tnsif.day4;
-/*encapsulation :binding the data into a single unit  
+/*encapsulation :binding the data and methods into a single unit  
 constructor :special member function which is automatically invoked when an object is created
 default constructor
 parametrized constructor

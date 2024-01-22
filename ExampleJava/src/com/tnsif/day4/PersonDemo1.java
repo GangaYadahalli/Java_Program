@@ -26,8 +26,6 @@ public class PersonDemo1 {
         person.setIncome(income);
         person.setAge(age);
 
-		System.out.println(person);
-		
 		TaxCalculation tax=new TaxCalculation();
 		tax.calculateTax(person);
 	}
