@@ -20,7 +20,5 @@ public class PersonDemo {
 		obj.setCity(city);
 		obj.setAge(age);
 		System.out.println(obj);
-	
 	}
-
 }
