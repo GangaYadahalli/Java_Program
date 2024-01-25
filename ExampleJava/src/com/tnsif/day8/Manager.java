@@ -21,7 +21,4 @@ public class Manager extends Employee{
 		return "Manager [TeamSize=" + TeamSize + ", getName()=" + getName() + ", getEmployeeId()=" + getEmployeeId()
 				+ ", getDepartment()=" + getDepartment() + "]";
 	}
-	
-	
-
 }
