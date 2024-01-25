@@ -29,6 +29,4 @@ public class SBIBank extends RBIBank{
 		return "SBIBank [AccountNo=" + AccountNo + ", AccountBalance=" + AccountBalance + ", getAccountName()="
 				+ getAccountName() + ", getAccountId()=" + getAccountId() + "]";
 	}
-	
-
 }
