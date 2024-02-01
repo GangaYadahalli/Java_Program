@@ -22,3 +22,4 @@ public class ThirdProgram {
 	    System.out.println("div" + c);
 	}
 }
+//The toString() method in Java is a public method declared in the Object class. It is used to convert an object to a string.

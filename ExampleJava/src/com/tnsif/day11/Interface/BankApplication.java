@@ -10,6 +10,7 @@ public class BankApplication {
 		System.out.println(account);
 		bank.withdraw(account, 2000);
 		bank.deposit(account, 10000);
+		account.deposit(4000);
 	}
 
 }

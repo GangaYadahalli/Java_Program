@@ -29,6 +29,14 @@ public class Account {
 	public void setBank(Bank bank) {
 		this.bank = bank;
 	}
+	public void withdraw(double amount)
+	{
+		bank.withdraw(this, amount);
+	}
+	public void deposit(double amount)
+	{
+		bank.deposit(this, amount);
+	}
 	
 	public Account(int accNo, String name, double balance, Bank bank) {
 		super();
