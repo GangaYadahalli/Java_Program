@@ -16,7 +16,7 @@ public class AbstractDemo {
 
 }
 /*interface
- implments keyword is used to inherit interface to class
+ implements keyword is used to inherit interface to class
  extends keyword is used to inherit interface to interface 
  to achieve abstraction
 to achieve multiple inheritance
