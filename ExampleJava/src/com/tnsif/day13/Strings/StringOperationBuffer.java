@@ -43,19 +43,4 @@ wrapper class contains primitive data types = char , byte , short ,int
 Autoboxing : conversion of primitive types to wrapper classes 
 Unboxing : conversion of wrapper class to primitive types
 **T2407010217
-
-
-exception handling 
-checked exception(compile time) = inherit throwable class except runTimeException and error
-unchecked exception(runtime ) 
-error is irrecoverable 
-Java exception keywords
-1. try block = a block where we place exception code 
-2. catch =handle the exception preceded by try block
-3.finally = execute necessary code
-4. throw =throw an exception
-5. throws =  used to declare exceptions  always used with method signature 
-
-
-
  */
