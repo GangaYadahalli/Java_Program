@@ -1,7 +1,4 @@
 package com.tnsif.day15.Exceptions;
-
-
-
 public class StudentInfo {
 	private int rollNo;
 	private String name;
