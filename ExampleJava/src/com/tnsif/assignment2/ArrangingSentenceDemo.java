@@ -1,7 +1,7 @@
 package com.tnsif.assignment2;
 import java.util.Scanner;
 import java.util.*;
- 
+
  public class   ArrangingSentenceDemo{
      public static void main(String[] args) {
          Scanner sc = new Scanner(System.in);
@@ -32,4 +32,4 @@ import java.util.*;
         return true;
      }
  }
-
+ 
