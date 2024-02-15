@@ -21,5 +21,4 @@ public class SynchronizationDemo {
 		System.out.println(a1);
 
 	}
-
 }
